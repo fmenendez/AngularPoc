@@ -1,0 +1,15 @@
+---
+kind: "operation"
+client: "rug-cli 0.25.0"
+generator:
+  name: "NewAngularProject"
+  group: "thinkd"
+  artifact: "circuit-angular-grunt"
+  version: "0.0.1"
+  origin:
+    repo: "n/a"
+    branch: "n/a"
+    sha: "n/a"
+  parameters:
+    - "project_name": "AngularPoc"
+
